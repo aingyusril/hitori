@@ -9,8 +9,8 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6285755928297'] //['628','628'] 2 owner atau lebih
-global.packname = 'by aini'
+global.owner = ['6285755928297'] ['6285732769032']//['628','628'] 2 owner atau lebih
+global.packname = 'by Aii'
 global.author = 'YZA'
 global.botname = 'YZA Bot'
 global.listprefix = ['+','!','.']
@@ -31,7 +31,7 @@ global.fake = {
 global.my = {
 	yt: 'https://youtube.com/c/Nazedev',
 	gh: 'https://github.com/aingyusril',
-	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
+	gc: 'https://whatsapp.com/channel/0029VbANat57oQhiKaL36U1X',
 	ch: '120363250409960161@newsletter',
 }
 
